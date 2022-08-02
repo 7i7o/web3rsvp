@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# RSVP Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## 30 Days of Web3 by WomenBuildWeb3
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Example web3 dapp (JS, Hardhat, The Graph) that lets people create events, RSVP to them with a deposit and confirm attendance, and withdraw unclaimed deposits (only by event owner).
